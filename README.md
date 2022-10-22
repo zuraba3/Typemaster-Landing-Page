@@ -20,8 +20,8 @@ This is a solution to the [Typemaster pre-launch landing page](https://www.front
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Typemaster-Landing-Page)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Typemaster-Landing-Page/)
 
 ## My process
 
